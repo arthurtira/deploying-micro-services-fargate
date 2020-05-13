@@ -1,0 +1,2 @@
+# deploying-micro-services-fargate
+This repository contains CloudFormation templates, students-service and notification-service spring boot applications that are ready for deployment to AWS ECS Fargate
